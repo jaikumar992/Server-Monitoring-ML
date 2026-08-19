@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+
+data/live_results.csv
+data/events.csv
