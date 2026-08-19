@@ -1,0 +1,7 @@
+timestamp,event_type,severity,description
+2026-08-19 13:04:43,NEW_ANOMALY,MEDIUM,High RAM usage (98.1%)
+2026-08-19 13:08:25,RECOVERY,INFO,Server returned to normal behavior
+2026-08-19 13:08:58,NEW_ANOMALY,MEDIUM,High RAM usage (96.1%)
+2026-08-19 13:09:17,RECOVERY,INFO,Server returned to normal behavior
+2026-08-19 13:20:20,NEW_ANOMALY,MEDIUM,High RAM usage (94.2%)
+2026-08-19 13:20:27,RECOVERY,INFO,Server returned to normal behavior
